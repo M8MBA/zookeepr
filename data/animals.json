@@ -171,6 +171,20 @@
         "hungry"
       ],
       "id": "17"
+    },
+    {
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "18"
+    },
+    {
+      "name": "zuzu",
+      "species": "Parrot",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "19"
     }
   ]
 }
