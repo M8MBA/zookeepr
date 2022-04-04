@@ -2,8 +2,8 @@
 
 <img width="1426" alt="Screen Shot 2022-04-04 at 11 22 56 AM" src="https://user-images.githubusercontent.com/97080366/161598088-d34f27b3-ffe0-4ccd-a38a-c32db7b02ca5.png">
 
-##Description
-the local zoo has received funding to build a new online catalog, and they've asked you to create a web server for a front-end application they’re developing, called Zoo Keepr. This site’s data will be stored on the server you create. This will allow animal enthusiasts to access the data from different locations and browsers without needing to download it to their device. 
+  ## Description
+  ### The local zoo has received funding to build a new online catalog, and they've asked you to create a web server for a front-end application they’re developing, called Zoo Keepr. This site’s data will be stored on the server you create. This will allow animal enthusiasts to access the data from different locations and browsers without needing to download it to their device. 
 
   ## Table of Contents:
   ###  * [Installation](#installation)
